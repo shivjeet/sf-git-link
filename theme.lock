@@ -68,7 +68,7 @@ sections/featured-video.liquid:
 sections/footer.liquid:
   development: 2018-05-25T15:04:58-04:00   a879391d063894e93ca6928c96d40f02
 sections/header.liquid:
-  development: 2018-07-30T04:56:47-04:00   0b59f0741b5fc96347b1b8cec942d6bb
+  development: 2018-07-30T06:24:27-04:00   26f5a7f82a2bf5035264ffc707b63722
 sections/list-collections-template.liquid:
   development: 2018-05-25T15:04:59-04:00   5cee42a561d01c41c11b1b3031c9eb40
 sections/map.liquid:
